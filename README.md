@@ -10,12 +10,13 @@ An Arduino project to set up an ESP8266 (using ESP-01S) to control a mildly hack
 * **README.md** - This file
 
 ## Notes
-I created a basic glue-down holder for the ESP-01S used in this project. It's hosted here: https://www.thingiverse.com/thing:6371050
+* I created a basic glue-down holder for the ESP-01S used in this project. It's hosted here: https://www.thingiverse.com/thing:6371050
+* I've also created an Instructable for the hardware portion of this project, here: https://www.instructables.com/Browser-controlled-ON-AIR-Light-Modification/
 
 ## To Do
 - [ ] Switch to dynamic webserver and add REST (https://mischianti.org/how-to-create-a-rest-server-on-esp8266-and-esp32-startup-part-1/)
 - [ ] Get circuit diagram working (https://www.tinkercad.com/things/h35XzLU3PY7-on-air-control) - Needs additional components
-- [ ] Write Instructable
+- [x] Write Instructable
 
 ## Sources, Credits, and Tips o'the Hat
 
